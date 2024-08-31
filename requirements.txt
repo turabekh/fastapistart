@@ -1,0 +1,10 @@
+fastapi[all]
+sqlalchemy
+psycopg2-binary
+alembic
+uvicorn
+pytz
+pydantic-settings
+sqlalchemy-utils 
+click
+argon2-cffi
